@@ -1,2 +1,2 @@
 # Bookkeeping-Landscaping
-Updating Account Statements for Landscaping Business
+I recorded invoices for jobs, tracked payments received, and logged expenses for ads, equipment rentals, and subcontractor fees. I updated journal entries, kept the general ledger, and prepared the trial balance by figuring out the correct debits and credits. This hands-on experience helped me create a profit and loss statement and improved my understanding of accounting.
